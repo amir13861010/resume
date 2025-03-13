@@ -34,7 +34,7 @@ const projects = [
     title: "فیفا کارت",
     description: "سیستم خرید و ترید کارت های بازی فیفا.",
     image: "./images/projects/fifacard.png",
-    link: "fifacards.ir",
+    link: "https://fifacards.ir/",
   },
   {
     id: 3,
@@ -48,7 +48,7 @@ const projects = [
     title: "ویسینگ مپ",
     description: "سیستم آپلود فایل صوتی برای مکان های گردشگری مختلف.",
     image: "./images/projects/voicingmap.png",
-    link: "voicingmap.com",
+    link: "https://voicingmap.com/en/app",
   },
   {
     id: 5,
@@ -62,7 +62,7 @@ const projects = [
     title: "جاوید مال",
     description: "وب سایت فروشگاهی خرید لوازم آرایشی",
     image: "./images/projects/javidmal.png",
-    link: "javidmal.com",
+    link: "https://javidmal.com/",
   },
 ];
 
