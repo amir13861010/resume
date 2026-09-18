@@ -48,6 +48,7 @@ export default function RootLayout({ children }) {
     <html lang="fa" dir="rtl" data-theme="purple" suppressHydrationWarning>
       <head>
         <script dangerouslySetInnerHTML={{ __html: themeScript }} />
+        <meta name="google-site-verification" content="gASVaL159HlTg6frVQwcQ3u4Xsnh8g_sLBTtKMCr6Fc" />
       </head>
       <body className={`${vazirmatn.variable} antialiased`}>
         <JsonLd />
