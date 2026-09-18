@@ -116,7 +116,7 @@ const itemVariants = {
 
 export default function ResumePage() {
   return (
-    <main className="min-h-screen page-bg flex flex-col items-center p-4 sm:p-6 md:p-10 relative overflow-hidden">
+    <main className="min-h-[100dvh] page-bg flex flex-col items-center p-4 sm:p-6 md:p-10 relative overflow-x-clip">
       <ThemeSwitcher />
 
       <div className="orb orb-1 w-[500px] h-[500px] -top-32 -right-32" aria-hidden="true" />
